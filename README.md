@@ -8,6 +8,6 @@ Due to the large size of the complete dataset, we have stored it on Google Drive
 │   ├── src
 │   ├── pom.xml
 │   └── README.md  # readme for COACH
-├── dataset.zip    # TRACETS4J dataset (download from [Google Drive link](https://drive.google.com/file/d/1Py10dspB_4LtOqSpdaoEaN4QgAwLqG7V/view?usp=drive_link))
+├── dataset.zip    # TRACETS4J dataset (download from Google Drive)
 └── README.md      # this file
 ```
